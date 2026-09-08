@@ -1,1 +1,50 @@
-Versatile Software Developer with a strong foundation in full-stack web and mobile apps development. Experienced in building scalable applications using React, and Next.js, alongside Android development. Proficient in both high-level frameworks and low-level programming, with a focus on writing optimized, high-performance code. Demonstrated ability to deliver complex projects across AI, database management, and system-level architecture.
+# Hey, I'm Muhammad Mohad Zaheer
+
+### Mobile & Full-Stack Developer
+
+I build **mobile apps**, **web applications**, and everything in between.
+I'm passionate about turning ideas into clean, functional, and scalable software — from cross-platform mobile experiences to full-stack web applications.
+
+---
+
+## Tech Stack
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,java" />
+</p>
+
+
+### Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,express,typescript,javascript,tailwind" />
+</p>
+
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
+</p>
+
+### Other Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
+
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://github.com/Muhammad-Mohad">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/muhammad-mohad">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
