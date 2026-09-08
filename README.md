@@ -12,7 +12,7 @@ I'm passionate about turning ideas into clean, functional, and scalable software
 ### Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,java" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,kotlin,java,dart,typescript" />
 </p>
 
 
